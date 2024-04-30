@@ -1,3 +1,6 @@
+# Important
+Please note that the FLARe Research instance of the app is not currently being maintained by King's College London as of 2024/04/01.
+
 # Flare Portal Wagtail site
 
 ## Technical documentation
