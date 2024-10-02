@@ -1,5 +1,5 @@
 site_name: Flare Portal
-repo_url: e.g. https://git.torchbox.com/[client_name]/flare_portal, no trailing slash
+repo_url: https://git.torchbox.com/[client_name]/flare_portal
 site_url:
 edit_uri: 'edit/master/docs/'
 
